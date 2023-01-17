@@ -1,1 +1,257 @@
-2418594445e667582e0b493989e4abc50460295fe162dad26400eafaae7eb68b4ad8ee3c7583b8f043ee94e8b8c407b57e37e53fe279bd48a736295834f32c46acd08481bcb97d9479a05f6f25cae03a5f5195e4df68f790b6bf59d6814105eec3ed4998bbeefc9fd4d40a832014ba2e3052604f747de3f4a3b2a665687ff8da10d294d5aaf41420b07a0444de5018d156688b82b3ed72f4538ef91f832aef892243bb3aaf9226d9f7be59a26ecb8a49ad954dfbd0587f57ae82aa8d3b4b7cc50d10c1f0444a8820e4e8fac12be091450d4982529ebab687854a4cf6ea8932d7abd4ef3773149c69a7fa596155b31e47fd89e355fd47cf6a0b4be5e7cf919671d4174f2c61139752ffaed9af89a0d0602f4c3499da17a79b0dfb9c67c39c60e7f18bf3142c88caeec5d78aaa659695d3e441c3d3bc487b85f67facd5f85b18f31b4605f57772b35fa9a8325659c19be2b56c84039f7afa44bd520fe71768d353837b4d4feb67dd723427e9af1a8da6159bdad267a57ecaf55fd2b79f38476e4df8d9d96497b5c7dad7f9f3f34187ebd4fe5cb8ba3a6b3a0dd18eb3409ef5ae636c7c7d581fed4026c3b48f18d61f9fe7632ddf80669b8ae7010ce865534140359e1e431e10b7b00435f21dc0db570c8c387eff49335a5ecf86676a85c320ebd99d0f71f94d10cf4598cababcb77f323603f3f2636bacbb105f575a157b6fdb3b51fbf0232546801a694447ebd891091fd3d5223207e1ba1201a0ac5a12f86f5142e6f9c30012ad31d65b787de4a5514519947ddb952d99fed0520b290a5d7615aef64728df12ba11f9e44d7f0ea68ddf65d0535c0988e1869fbc27a72cfd7d5058c9e57ed8c6a9f083a5aac1e1ffd73014ac74c08abdefe54eb029a43fcc662b558bf9c8a0d8284eee0cc33904591a6b8c831897972e4d381716a378292701c33891674221c553f719d2f014878568e70d6adfa52537d3bddfe2b3e8c7baa5780376c1bfd82bfc9171a6126ee4b3fb6af37cb5222196d1125d2a7e189934156aaed33029b2fff619ec828e0ce1a3dd0225a0d27b7ececc8092423eca16a63a50bdb3261a1140bf9b87769e036690c2c740356187bbaa013657673297f2e5a2d131a083417cafdc3f3d45897471f8b2779dd5ab89b759809cab4f553c426c35eeb6e935f468e201050084e15cb0274153f277ed8c2ae362edede4f4a01eb87d8b482eab29ced3af18f9f8164456fcf3888a0093a7395100e5f5fdb122c13f01adaadfc8e081376c7787272c3444719d602cd98469e5c98e4205866f53af341e45c423c0ec407b2938b99d6437fa91e74d981d935638f4541bfa4570e099c89847122d5355f53f5a83ecaa721dfe2c095dbe23a919a9f08ebd1ab6e143bd00b443f052a897628eb85b206e6bd5f226816ccaeb5d0578ee0dd40da79e1a57d52fac6417f7d3bd6046256c3a49ab81d937d9fc0e758384012f833baef2b8d2d8c4337dfecac3ce7676451fb807ea6b3886013c85be1b999a53b1d29e94c553a905eb45801733f9e7b729d96e25d6d48291785aaf5ff9164a5e8f8c896a95d855e3c8a6a309b994525554b7149ade8161653fe9842842874076bd9c41e65f09c470b63d82789594486b5f2e3a5ce9b19a2f8d47ab431c4f1435176fe6f05c2b8a8e9952021a880f42b4e6d29e19a970941624ed5168af787596a31f1699e6c277af331599f13bde8335a9fcf4cda84e0c3a08b22980338e62fc3b878b7409a8fbacf897877f88655b941017940f8a65863f3994ef37c3e3163b81d671ea942b0563a3567b01b6706ff63dc01b7a89119c418adb114caaaf173446ec316daa877ecfb26d23fbb0ebba295a49645ec208795a2962ee9a8750b49801cf75f3dc1fa5e744fedfb4110a908a5039117011258e4884f89f842a2fe01e2e2f05687c23814ad27bd7c3cbd3f116343b0a04c57f827880da2631c404bc9b8f15c4aa839d9ecb753a4064251c5acf6c7c5453a23ea613544a49927d04e2e62d77640470aa49d7f0aea696cd373dd032522e52571adbedd4c778251b83eeb6f8673c2a2f6544a068c630d5f51b6eefdcc100f3694ec92caa3bfdf01b9219500c03fad10cd962d93ae18b9ac3dd0500ef09c0ed87058f0834a15a15989705b4be8db1afbb29e200ced0bedf3f92ea0cb72a98d0575451f2811eca5ba38447201e0f073bcbbc0e121b05669aac077c577a52ce2e88ba1d4ab3b821e5c616ccc4db5598c535801d05a1b3032491c31d5a38279d22a848a10f83a1bb9722d1af73ed57f3fa193d5bbbbab3cb393be3fab911fd0321cf0aaf59c97132347ce9c281d826c43ef72c8bb9f7e313b7a23ceeb718aa4f938f584396716ab8f8808db4bca2aacc04b7489ca4bb9c405311fe6514cf53270c6aa640ff68aec2539c3794240366965e6dc8203dc515936a5a080e992d002d855d2e50d00457139854dd8e39d43d1fd3eb7a80ff115b9de89786fbc99142637bba32fc321b38a861a5efa41cc784267e0cff8ca2626106cda0d298db6d0a25d164a717561119f9ba7ae9fa0ffaa4ff8f754335e21f0f637c5f393d04dffbf9d7e4c8b0447f333512d382d4e8c046f5dd5bd01452733330be06a28120b93fc9fd954d01fea4eae9502984a74354e31781adb994f6b3fcc7f609e0e2e27efd72e727d1b98f3ca22d9f145de9756065ce511ab6341c256d155b30f6e40d3cc7991704296236e5e529c006814cef8b03634fbe87b348cae8d203b26a9c481aed88bb5b1f7865568a173f620da1ad2e5b6d16b7d474414a09d5c7fcf6794049abfd65f2b569b65faa42b70e5cf700242db146e65a26936ab3b2f6b609f4ceddb945d7b4456b1f65fd260bfbd8db7d2e65e241d22de6816e3ccbc1f5ceffc193b065d86c844c684cd9d472a5c7a2edcddc406139d63c5af04269ac2c21b1245ed5616a988cf87a39d6381afb25c65f796514443907aa0315639cfb568ff1a424e819bed02d61093f1d2a5a171a8f87cfa39fc92a410d9db898c6ea0eba5c67fa0392f7de36dc93ea3585adccc218513ffc3e6b60cfee149eadacbddbbc1ae5991ae1689791e23490d20079f056936e400a7dc74858e334808d13a7fb996b76450e44221e9a3aa851a306cebccece14b97eaaadb76e059e26588f11fff5e6a2f8dd345f38c595bfd2f28406d437dbf133d918701d86f436bfdeeeeec971a7f860fd29775172acb6bda511955e1b2bf8797f4dd85584281fa54fe0c12de7cbb2f1007e94b9e09c7ef009470f32b6f34c751f64e8f833e31d817bd928bc1807c9f79ed2a369f8ed888e6c940ab7ee0fd43128cb3209b225ea1de35ea5cd19ed0f557caabeccaa8f714e5015a38b086a4241ab8c574710ae26eacce12351329248360d9c23994e621bd2c871a458fbd755bdfb01d094c004c883adf93f9ab5c76d96762d5f97a758051e940ecb871656699dc595b2da884d203f6b5ea1c32defad72340500a495dfc8a0a9ecdb7d40b904f2ce2532dcbbef39a61c2fa4864093af5bb3835478b7b803823aa8b4f3d7df6b1a94e900ae02cbe322baa707e94f667e35a4a4c8fbf62f508cbc86f478c6204219c4ace30cb110f92b325434c95298aebadf1427e9d639aac8e5f5c2ae702dcd3beeb0897168f97b093b31e790388eac4644c6d8e0bbdecce7bd16f7e990334348dbd2584555eb35fc083db40aa90d327c6fdda5e69e6520b5df73f79d26744301dfb49fd8e07aaf95166d40b45b7382426694b59f6cadbdd72bc8a335fe068d357f06c15334dbad5d0064775da0da1a2f9777b2137282119217db0f75911cc87656103f29bb95345a8566bbd0244efbf1e1733f741f35b07947af37414a66145980ca88a910b71987be7cbaf519984c5dbc95d9ef92204ed0a8b1e65391f1278bf3d0f5f93a9d888089d71d1ba694841a49409ee7da5170209569bf2312c65258c152dee05cf0365db80379d475afb0e538f1877964ad9f95d7dbcbe3c9efc48ac0ad196e89598a74d1703e70e52fa10154fe4adff93609c67b21d1ba901847e3a288efac8fce1d787844fc5e3ebd244e9c94c9083035102be2f0bfb8c5a3631b314b5f0ae08fb7dfb647ac33080898e4cc3b4e10b8ee40bf5184cbe4b49cbf4426518f3031ca7fad587a235755a84225146c5112d34e9240ca481acd3865b6ebb110e3f55b33c3036af85789687948f3c7ad7496fb9517eb00a721575f568023c6a87cf7fb3caa2e8edc7d17fee59f520b918d1804a930c1ab1ae5be84b7c159da69b2571162d40039cf3864642958422bcf9b1d15f362aa6ef486592bef4428d7df9499ad9218ce6d699370434bba83d1eb4af90b3fe5668c1a515ec8a29400b52827c0072e55356cba7e0a325c1aa9774a413a3ddd366c35da805ab5c9f228a3c2423fcd721d28a69f43499d4a5696482e9105d121ffa7297e94101bb423e279a4f081c110839c367c63afaca8490918fa56c367db9063926ec4fa3305230e17e46597bbd46b33fde8f9383926cfedc81ecd1abae6e57837a39aa8284c370e60d2e25e62f6535dfbdc09eee2cbf5eba426799bd987aa6b7f2559b8b4fb74f377812f26c326475eb1951b2df129ec0d987e68eb965a990598406f2c613474f55f24293a14be670fcf457e21fa771ea6e69f191d247a4fa33d9ffe3ac580316846e396e85fbca53016391ecd993ef5707cba927331d3256da2d6d42a98b8a8ded41265e75bec30acd10fe47a8a7d783bd0f7539e51bed4b553321db5ec50518529d6bba2f7c26088e31bd7f6a5fe0f3a6acd0278332ad63a1ff8d09d029cb4395f38fe823aadeda7454850f0275d3f46c6485c003ef02cf521fbafa6022ff1d9b3173c5955100859b07c9848b0ae83d07e0a31c4dbbf0f98daf3c96bb1b94fc48e17642ba150b72c32e56d79b578b095aef6fd3ec83e5d84a0aea4dc58066f0bb6d7096ede80352db00e026937452874b55484ecd66d7407ca7163e4a60383f4e775f490f2f484712018019de3c2cdc4e604869a4d95eafe3aa1ff6f9d022e88e315d5f7eee36472d749a1c1713c4cadab3e565f4d16eecd42e2234126dc36ccba62cb9f948a4536e443b7e5f2e02acfd2e7ef38256d343338bcdab19cd0489537b6cd2384fadf1b8f6bd55cbe06f8a76fa310908a5c091606a0a36a2270e5899c398c2339acd89a9509de82d8d31a9d6d6a052b6ed8a2d8698442f331b241aca231fba83557171b26777c3e77e309e1b1999076e5a502bfdf219f5ca8090901de86b4318dc4bba97c1ebdf3956f68ea0c45d734cdf2d16bd3c174027f059d3d9a9285393832e39fd8de1dc30fdb926e036a2cf58b0772d0d74d0ba77e550fa3e2319d67c2da16bfed79e350d670e9282c6bafdb149b61a82cf9e3cd98be414349730e92bc30b0b2222c000d153b74196153a810bc0b6bfc8786208760d87e67c4769bf9c7a0974cd33e94a33b71d3a4a46c9be82a3ff52d21bb705195ee2fd41546c40c96ad8a4776e8e461bb7e02fa76d49d460f39c60e7ffe7d6e9de4c57fa2d17b6734ad32fa253e1c72e9314d12469b478e7a2e9b49d6a270f09c7dfaa36861ae8a9f9370c387da884e4d0a1540ded27092ff93248bee39558a1fbbe4bbd7e8715123eed3c64440a60e64c25641c18309aad04d988c2e0e2a72ce6bbd39d39d23381b3dd08b10190ea7e67ce8a58119fed5140d398f66e3440e7c2857512736537e7b6d73d9992e5702c562c740dd54ab86449995d6bf07f1df819261dec0485a398061927865b19193757bf9caa82540263867f8447066abe01fb751c852484afff59df8fa26b02bd08615b5bf7f65c975098954b8a39751fc81aab853b5c11558d927b3d6a9c0f37a8cbee36e0fd37ef0246dc8088b5b8f79507cbcdf0811b70041c82b4a7080116ec90eba2b21154c5bb55cf1a782356bdea37d571e05ebb9050f1fff00d5fcba7f1840b7d1c8d0ede424c4c1096e5abdcbccbad8274d80331e92d76a5f9f1c508af0f61a8df7186627172b7458f584f668833c7a2008d6a4b5776674c3921e5b1cfcde018257433e11d5f559e2f8c698f59f65a10a3068b09e5e15b267b17d851a3c58b2303471fa79e209bd8f0be0c52dd1918683d5e87222f2063884d4286d6cf2c58197cf2c7a1ae94aec947758c48c9efbd44b31b48979147b1636cfe28e2265ebf9e3bcda1512d170c48f844f3845812651936d6051aafb088612f4e0600cf5e672a5cecb1826395961a9e75097bc1fc1b4d05158858610c313a30239aec0f1cc5b2f835f53e0a86d8530925929897b6e87def01727967a14fee8b269d5e42cb236426f57cb58de2d4a0f6f66bc0f7d76fb710687e700ce40f4a9c17df3dd9628f306c891e2f6e01fe2c96ef05b51881b0e5437d083e4f0e97787c8c3dff6446a9acd3c9a39336bf046172820d00aad6e0e84d3bb6b79aafbc6795f625f19825659340554d6e2967cf2642f7b3864d43c523b915e125f1232a38f9970432c0a20bf8816bed57cb6759838c6e742f0a00257f4f2b5c7b5892a30778bbf377e4fa0b5c84603694801605f9c72b9d73d92bc3e5ef01d01a76fd76bf8ad1e55c597d5fc48a2fbfd4c72854cd2d32d03b9c3477d193fae130e82ab31a517a6a01193847865a3b9a1c44b4fa1b9208c6801bb6cc12c9afe102132b444b1594d116e9c3fbecacfb4e6064143790847130ec9ae3ad1bc8b2f82335ba174785817790c90b9c24b49eb8e895db0cf6a9951c4fcf1ec1a5bc64d4f5cc346fefe011846b8302fb20b7597a0b1ab4bebd5ae32924a9456675638366a560db49122e1f2d91b3c2bb844fd0ceb4f1189320ff34b9118345feba171f6d6880f2253ac6b67b4095b8add3737e2bb1acf71bfef187d0258aa8797cea1160101f262d754cca401173b489224ce16494d6f95a883ef0a870852594c94317b5e476093615a3ae0172e361687b98e38b9ec7f3f9c9e686586ea656b1361cf1ee18bbb61ebc58671c9d9922658f8191c43f8005d7ff782aa89cda67b43e266c751849d1dd671563dc4774ce348982c827ac12d755be0428c05f4470cae49de0bd3ef0073132e768c2aff7d77cb1391fd57c8d3a47d9f1ac157224042d1cc567280d11bbab944b83453d4d3e01f881a710cb6d24da35ddd35522e51a25d6356ccec62cd700f77752ad57ea95c43874578c7dc1870792c026caf585cea4e7fc68359c84334890f405e494eca79dcdeeccbaac77632369d7f582534e58f4174c980e8d45e17273e79b2d7596c382f1cf4c57abe2bde6f90a2c00eaf112ea6e6577b68c163b7cf4ba3b65c39b663a4461ec5017e25b39f09eb3c0140ae2735cd993bfbfda0f46c284e40d9800a3d3f5f43e3163da12d64f2874930f66b8607d655057d4d11363c6c822499db87263c8dd4b5ac20ca2004866201fb51922342a1a68f2fdb92af87cdd9c47678892f88188468a190fc49df28b323efa1e60042797875c872c377698ac504fb15e8b58592e769ca6ea0241db3c38d06fd074482b0ddd136a767ed1c53a21180677e4d33056ffbc83ea572fbbfd63f8a2f4bcf0e71afb9c45f84badb174c34c3f47a89f4ff274d0546573f06644719cee9159b3e3d3e3564953ddb98d719ac8655a51b58ca5fe3cbdce01fc1e17d417a814fc3b7a08cd49dc24c35bf7f392536e1382190d64080c529834e8e65d35c454dd3191752d66b0dda38d1c26ba321be70789510d8600a9a9a1c4b5d204cabb4b995bdb1a9640322b86bcfaaf3f17fcc57919ee8c6b20995d7cfc028891cd4d96a7b5d9900d2ed96d167af037ecc216033b0288fe513b0baeeb536a499d284129066a8f89a116ae6828398ba2fcaadfc85a54df25f63664954c6f40bfc3e65cc9c001ce6a7cd68ffc1997f39f2531cc5642235fdbd7bc4b656a6e9ce3a77636a9a350e79b1e6b0a62b97c71f08eb12f3fd3766ce4997a7183387262a7292b0b000b2427e93bd12b968e44b7e65e30eba5af438246370d15248738d939e6172365391d5d8bf6859a1634b0e1b6d104d927c34aefc912ea1fbd0b63129fecb96cc3e52f3d95b021d91546659f1267aa07cc895b4f09f5617077d9bbc3e0bab5972b41594cd0b6599b7584bc3f032bffc8de2a3a14a4f065095900fa826c906fc3f97ca96c02772ec97d34c10251f7791f0f9ce7fa61e0efde51d4168e0c41ca6e5ae5858caf94270c89fab0a1a6db7d3c64a4c119489b53c463030a3a25bb0cea8345be3eaaa4d9e24ee724d82c9b9b5a44af3d49a29a2863eb87d4b6add612638849389277b8472a7842d1eea4584171dd3fd55eb04046ca7e8c7d77058ec6433049b19aac4b49642a61b039bb786611e70d7367a42d46adbc08a1675ad1ead55ce583b7a3f2131fc8463dc14f4ae1e6bdee94b18813509416516e52575a967494a7b703a05bda3e011341e24943643334007d93dfc9fcc50cf4f301128f5d009f13b4b477c41e1ab2c03e6ad4d94b9a7abb9aab6b2a87a4d3287ead6467d5106f2871acada9c5caa34cca118355c65c7a8d0ce5eaa4c3dadb88f1cd3490f03a2864a46428fa307f188782242ed8d1d1ab5360c0a43f1bfda50ec58e397256d4b03c1e33bf7be5c3575ec98c89c9478622dd942699ed91903cd25718fa3e1b5bfb89b67cbe7f36a34debf5102856f9d61b7c5c98c6d95d4a6a6a35c886c5a0d03fb3a89da3fb39a141e54c388592bf429f8231bb4d2d14757b861b17738860d5b4b5c7033061fdad26c4c19844027cf4d3b14343e8cf659a7df8b683f95b5f7fd5547be7a61db68bfe194d2ae2b8d6eaf3b975688c7bd00bdb446c316b955e21a86cffb17d6a16f936dd9e98ad5c08294edc894098afced872bfe840d15b42f90343b5f76c8ed4a2bef37bd05719efb78f21da248df58979aa2fc3bd219229f473647a62e39ae94568facf5f8b03d8da8ce9796d79b41e5181054ab780a14a735869f78ca73a953916c7b1bec38d895418d2f095036e572ec4d1d86136993f6557f6077b926806e01d2d712aae964cef55e21330ec00b70ebb6e81540931cb766075b53a5ce094d83f6b4dc720b2731bc1a4d7d3f969676b0716fe774e8b743af9b7618fe60b34b2bb06dbff50e901f8902f6186825afb09eacbbfee4a14fab21a7925a16e8badd727e73674e87f63426649251a8604cafb94111ca2b7c053559bfc9c902653e8c7fd92bd89c1df868309b7539bf670a5e6b9b3ced70bc99c66224771f534f7657101d6748340944bb12017c76ab9104fa14db4079f28bb58a8eb5e532f4ec6163d81c96dbe8096ecdcfc093e0e731461778efb41ac02ed2277c8b81b57b523fc70d0d9dde9034ea3d9c245a84dff7a6f8a3344ed974fe7b0e574632e2ae7ecd88982124916d16601d023abee5bec1eda4c7f20d91e2b37a40077ca408d9d075397ade7a3d9597c3a5e2b07fec5a87862fb86eea997495a9ddf815117745889d3c747f8cf01b36cd58927f0acf742f838d839a1ade64d3d428bc05b2679cd5c4bdfdc5f8fad97addc35eb6dae6f4770ddd528c86c39d4e6fa835c4740d67947158740d7a7ed606cfc83e2973e2e6cc24087d1ab1095dfb31c2897408ffd280c79437036c3dfb16be4661af2ce71b99508885affde091a371a2c0d3833c0fe5571e2d2849fbee48221962281ec7600686e9764aa62ff3df6c918586ba66d440c65f1ce6cef4422dece8a5f68feb9d652b96bdde9afae16c6e67dec8fdc07ad7e812c1c7dbe6fbb71b2c2b1d54647064f5b34bd9bcdbb2862b0faa8194ec966d141c79c65a0b054c820c1a2f0dcb0180bb78779d778e123c2e2e5901f7862f6d9a095fecf3894ccc02bc81eda54674a8ad397c6acfaf7e956a4f9b36aff3e8611d5cf947639ad82aee2262ce4bdf6578a8e7438bb1fa639544f11a2d9d983a2b599c967a17d20f85573607a3a5e208d9ecc8996ed3f71ac8e2f6663e238e20e54823bea047fbb1afa77e97c3b7c6fee1dbfc51626d2e0dde75178f09555082e149788f042d212af7a6e7a7865d774dc30f17f2692166df3570e57fbc583eadd93277f042b44a9eb86dcff7e2513ccb8372a34a6693d7cfb9b7479cc3262df80b0b0dcde699376a4df6ca71c2a41d8a3efb57eefaae0375271cfad112154a3466400cb8bfb183fc2a100e302e32d07dfa8064d07d755f47f5b2376fced02bed4c834ca993217cf7e4254675a1048a29f714f39c4f470c38abb8296d8dc842839b9bc3b472bdb19a04af7e5f4bac784057d15ee9eabf49cb3c94984fdc5cce90958137ab891f09b0f4c3d754cbbdfa67fa455c1868a3648e5b5ab0ea6af4a73b23dedcb1e7795982963679f38433cda916f839406d708063764b30961d11990f25909bf74588ccfe24db89eb5fa70f7d9189dcf9cc873b87d224a1c06f08ae03b9221e708b18b1abc7a5a6d3c710eacb216cabc3230477a07236226193edc9fb538d35da54c95ac7f4344444120b1d54235049ca445835eabf714e5460788938b50f0d5174b5e03442e5e61db0846b37e641b7cafa3f47884b52c9f9a83d8f6ac46f91d0b20262979c2d57cf37d25b95664ab75af3394a5523da56270e84fa762244ebd199f88d2eb8fa07f28a70ad3f38ed36ac7f9bde64b47b550c0c97ab8ab5c540de2910da1bdb7af681e913a6a2a7ca2de1fdd5ff427881d519e31127592c8706216463e8468ad36adb2209f8bad499083b00d4854485c9c87b17d99899aeb4414e4439536e1c2b3d69c5ed01f140264677b7e2a91ebb20c4d6387e8d2d9eca4fa59447e30deb45826f6f262339198b28fbd9d33ea1cad9ecb04b8cf38e93ec531d09bde4bf780122daeec76ea6e8f7e82b950af5a99ac90e118e6f6494bd2b1c30ec5a52a86e6dbef9301fa0867173a6e2850f88f5b803533b5b64923dabc81effc5d9ca9c8bcd9f3093c1592a4763eeac2d8af66cec5cbb8845806c3192230197fd7169daa018738a231493ea57d30387901315b2a4daf0a0e65576e5a48a06538316d52c73d909e359ba585561805d96d4340d95b7723b3f624a745f46b7a0690288237b8e73fc4ca61c39c250652ee732903be843348d85b7beef9702138836daedf997dbc634ab00a5a3206529cf251be76a3e818061ef871eaaab0f0894bd7058ffbf547605bd3f6fa6981575c8f3035604850afb5e25f925a8d21fca7be45be85187281b73a13ae8d633dc1a7aa4a7907534bbfe6e0d2e0904563397ee9563c7ec511615afa2f7b9188f9aa608ebcff6b758af0d3d0c68305a96e98b5adaa2528215eddde004aa6bf10f76965f2da4028e78d6926667be7397e0519555313022e9f527f70f0d7006957fe3d9d4fcd39cbb14d990a5e3c3ca9defc19ef73b61acd9618be30207414ff6069820b636bb779fd6285abfb983f6a29590cc0e926ee9ddfe427b3a57c4b06314be516d7a7f3fad72f28bc9aec0481176f8d54fe00947be29d9198e87ee05798cc6ca02acbbe3941ad56de9afe6a1cb92b2ba7fbde5b8f8ce34d87be1466029bdb640bcd315d849a5f97588c2f16ddd999c66df9ffdb583ee4aafc904e8ebfce6c3aa31d525a9a45a6c786dd1d8c121e58ae2ff3f267bf55a7c4f0fac472330fc40ec46cd4f41c9e946525cbcaec46b60886ed0270cdaf058d3103b1dcd1d6329ceee5b87ae56f53a4400c988507365d189f63b955b104944a796f808f430511fa4e312e7a0fec695ab828b8b6da051c62f585903e28bf206960f735f3dd23dad8b47aa6a7e6092fb1663d7ae54ce099a66f55b14ee21ed2e52ceca86d232e4926ab97b3ef566343369601d8b2c69da0ac84d1386bcb536f8f955a909c0ff4feb7f7ba0996747cb2bb482eb226c91115c35ac1f2b70ff02300c6fcd0f17d33b8dff977772ad40ce6e831735eea96a8da5858d3f7d54d248fba034f38c0c7b80a67149e36087dbcb2fd9
+import time
+import socket
+import threading
+import select
+
+print("The FoxyBot")
+command=True
+benfit = False
+spams = False
+spampacket= b''
+recordmode= False
+sendpackt=False
+spy = False
+global statues
+statues= True
+SOCKS_VERSION = 5
+packet =b''
+spaming =False
+op = None
+invit_spam=False
+global spam
+def spam(server,packet):
+    while True:
+        time.sleep(0.012)
+        server.send(packet)
+        global recordmode
+        if  recordmode ==False:
+            break              
+class Proxy:
+
+    def __init__(self):
+        self.username = "Foxy"
+        self.password = "FOXY-GHOST-UEGB"
+        
+    def handle_client(self, connection):
+        # greeting header
+        # read and unpack 2 bytes from a client
+        version, nmethods = connection.recv(2)
+
+        # get available methods [0, 1, 2]
+        methods = self.get_available_methods(nmethods, connection)
+
+        # accept only USERNAME/PASSWORD auth
+        if 2 not in set(methods):
+            # close connection
+            connection.close()
+            return
+
+        # send welcome message
+        connection.sendall(bytes([SOCKS_VERSION, 2]))
+
+        if not self.verify_credentials(connection):
+            return
+
+        # request (version=5)
+        version, cmd, _, address_type = connection.recv(4)
+
+        if address_type == 1:  # IPv4
+            address = socket.inet_ntoa(connection.recv(4))
+        elif address_type == 3:  # Domain name
+            domain_length = connection.recv(1)[0]
+            address = connection.recv(domain_length)
+            address = socket.gethostbyname(address)
+
+        # convert bytes to unsigned short array
+        port = int.from_bytes(connection.recv(2), 'big', signed=False)
+
+        try:
+            if cmd == 1:  # CONNECT
+                remote = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+                remote.connect((address, port))
+                bind_address = remote.getsockname()
+                #print("* Connected to {} {}".format(address, port))
+            else:
+                connection.close()
+
+            addr = int.from_bytes(socket.inet_aton(bind_address[0]), 'big', signed=False)
+            port = bind_address[1]
+
+            reply = b''.join([
+                SOCKS_VERSION.to_bytes(1, 'big'),
+                int(0).to_bytes(1, 'big'),
+                int(0).to_bytes(1, 'big'),
+                int(1).to_bytes(1, 'big'),
+                addr.to_bytes(4, 'big'),
+                port.to_bytes(2, 'big')
+            ])
+        except Exception as e:
+            # return connection refused error
+            reply = self.generate_failed_reply(address_type, 5)
+
+        connection.sendall(reply)
+
+        # establish data exchange
+        if reply[1] == 0 and cmd == 1:
+            self.botdev(connection, remote)
+
+        connection.close()
+    def generate_failed_reply(self, address_type, error_number):
+            return b''.join([
+            SOCKS_VERSION.to_bytes(1, 'big'),
+            error_number.to_bytes(1, 'big'),
+            int(0).to_bytes(1, 'big'),
+            address_type.to_bytes(1, 'big'),
+            int(0).to_bytes(4, 'big'),
+            int(0).to_bytes(4, 'big')
+        ])
+
+
+    def verify_credentials(self, connection):
+        version = ord(connection.recv(1)) # should be 1
+
+        username_len = ord(connection.recv(1))
+        username = connection.recv(username_len).decode('utf-8')
+
+        password_len = ord(connection.recv(1))
+        password = connection.recv(password_len).decode('utf-8')
+
+        if username==self.username  and password==self.password :
+            # success, status = 0
+            response = bytes([version, 0])
+            connection.sendall(response)
+            return True
+
+        # failure, status != 0
+        response = bytes([version, 0xFF])
+        connection.sendall(response)
+        connection.close()
+        return False
+
+
+    def get_available_methods(self, nmethods, connection):
+        methods = []
+        for i in range(nmethods):
+            methods.append(ord(connection.recv(1)))
+        return methods
+
+    def run(self, host, port):
+        import time
+        import socket
+        import threading
+        import select
+        s = socket.socket(socket.AF_INET, socket.SOCK_STREAM )
+        s.bind((host, port))
+        s.listen()
+        
+        while True:
+            conn, addr = s.accept()
+            #print("* new connection from {}".format(addr))
+            t = threading.Thread(target=self.handle_client, args=(conn,))
+            t.start()
+        
+
+    def botdev(self, client, remote):
+        
+        while True:
+            r, w, e = select.select([client, remote], [], [])
+            if client in r or remote in r:
+                if client in r:
+                    global packet
+                    global op
+                    dataC = client.recv(99999)
+                    global hide
+                    hide =False
+                    global recordmode,command,spy,invit_spam       
+                    
+                    if '0515' in dataC.hex()[0:4] and len(dataC.hex()) >=820 and invit_spam==True :
+                        try:
+                        
+                            for i in range(3):
+                                threading.Thread(target=spam_invite , args=(dataC , remote)).start()
+        
+                        except:
+                            pass
+                        
+                    if '1215' in dataC.hex()[0:4] and recordmode ==True:
+                        
+                        for i in range(10):
+                            remote.send(dataC)
+                        global spam
+                        b = threading.Thread(target=spam, args=(remote,dataC))
+                        b.start()
+
+
+                    if '0515' in dataC.hex()[0:4] and len(dataC.hex()) >= 141:
+                        
+                        hide = True
+
+                    if '0515' in dataC.hex()[0:4] or '23.90.158.22' in str(remote) :
+                        op = remote
+                        
+                    if remote.send(dataC) <= 0:
+                        break
+                if remote in r:
+                    dataS = remote.recv(999999)
+                    if '1200' in dataS.hex()[0:4] and command==True:
+                        if b'/Foxy' in dataS:       
+                            spy=True
+                            threading.Thread(target=respons , args=[client,dataS,b"/Foxy",b"SpyON"]).start()
+                        if b'/-Foxy' in dataS: 
+                            spy=False
+                            threading.Thread(target=respons , args=[client,dataS,b"/-Foxy",b"spyOFF"]).start()
+                        if b'/spam' in dataS:
+                            recordmode=True
+                            threading.Thread(target=respons , args=[client,dataS,b"/spam",b"Onlin"]).start()
+                        if b'/-spam' in dataS:
+                            recordmode=False
+                            threading.Thread(target=respons , args=[client,dataS,b"/-spam",b"Offlin"]).start()
+                        if b'/invi' in dataS:
+                            invit_spam=True
+                            threading.Thread(target=respons , args=[client,dataS,b"/invi",b"ON"]).start()
+                        if b'/-invi' in dataS:
+                            invit_spam=False
+                            threading.Thread(target=respons , args=[client,dataS,b"/invi",b"OFF"]).start()
+    
+
+                    if '1200' in dataS.hex()[0:4] and '/Foxy10K' in dataS.hex()[0:900] and  command==True:
+                    
+                        op.send(bytes.fromhex("0503000001d01fb578313150905babcef51dd24ed75fd0a24b024bd1429646114bc22e604afd35a96fbc48710b2d9cfec4378287ec829e33a78608fd2dd138d4d24a19c00fbfdc9f15c77ff86d638b34de95bd886e3075e82d3f4a3888f9b6943463022c43fb90e229f0eaf8a788f6f766d891d99eb2c37b277144923212810b3c80d1c521790154ed270f5241adc136f2a22816e0bc84fcaf79386b27559de966aa788c184d35bbbfaa03a5f08746f8db0e73b2c91ec4515d61f689a0cad30a7cbd6c325151e879dabc43d506b3240abe41bc0d6b4416c18f68ef4af2d04c381be6bf586f6b25727c0c85c03a579137e4a6c602ef6d833dabdab3eba3a5266e5a4731fbfb1720b60f124cd8fd4fa26cc7a9fb6e0a218d8809f57b204d22fa97520aeb99007c7b71c709e53ecc688c9963e0786909152fa93f06dc93085468dae34e1609f33f7dee228fb058c6efd6846b50ac54db0aebb8f5bc2f6751f9e2886dbab41cbaf5a1d8cd88e6c13a2a2a56b613a2d32179dc3f781493a5027322ac0cb1a2d3c79d49fb12ed26230e1561df43d315a27be17b5debdba757803305252b5443f3d77cd319dde9c49a72c636d93d02bdd9597168f378aa6e41d0fd545abf8bc0883f3dac11ea27166683c7111a0f329bf6b6a5"))
+                        threading.Thread(target=respons , args=[client,dataS,b"/Foxy2023",b"5 Sqoud"]).start()
+                    if  '0500' in dataS.hex()[0:4] and hide == True :
+                    
+                    
+                        if len(dataS.hex())<=30:
+                            
+                            hide =True
+                        if len(dataS.hex())>=31:
+                            packet = dataS
+                            
+                            hide = False
+                    if  '0f00' in dataS.hex()[0:4] and spy==True :
+                        client.send(packet)
+                        
+
+                    if '1808' in dataS.hex()[26:30]:
+                        print('  the team capacity is full  stop ')
+
+                    if client.send(dataS) <= 0:
+                        break
+
+
+def respons( client , data ,text, respons):
+    data=bytes(data)
+    data = bytes.fromhex(data.hex().replace(text.hex(),respons.hex()))
+    time.sleep(1.5)
+    client.send((data))
+                    
+def spam_invite( data,remote):
+    try:
+        for i in range(300):
+            remote.send(data)
+    except:
+        pass
+    
+def start_script():
+    global Proxy;Proxy().run('127.0.0.1',6382)
+start_script()
