@@ -13,7 +13,7 @@ print(C+'Hello sir ')
 print(P+'_'*30)
 print(G+'Dev : Foxy | @the_foxy999')
 print(P+'_'*30)
-print(f'                    {G} Members : .')#PRo 
+print(f'                    {G} Members : Alae .')#PRo 
 Link=input(Bl+'Enter your link � : '+Y)
 input(Y+'Enter to start: '+Bl)
 print(PN+'---->start creator<----')
